@@ -1,0 +1,9 @@
+C:\data_hitu\C#\BAOCAO3LOPP\DAL\bin\Debug\DAL.dll
+C:\data_hitu\C#\BAOCAO3LOPP\DAL\bin\Debug\DAL.pdb
+C:\data_hitu\C#\BAOCAO3LOPP\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\data_hitu\C#\BAOCAO3LOPP\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\data_hitu\C#\BAOCAO3LOPP\DAL\obj\Debug\DAL.dll
+C:\data_hitu\C#\BAOCAO3LOPP\DAL\obj\Debug\DAL.pdb
+C:\data_hitu\C#\BAOCAO3LOPP\DAL\bin\Debug\DTO.dll
+C:\data_hitu\C#\BAOCAO3LOPP\DAL\bin\Debug\DTO.pdb
+C:\data_hitu\C#\BAOCAO3LOPP\DAL\obj\Debug\DAL.csproj.CopyComplete
